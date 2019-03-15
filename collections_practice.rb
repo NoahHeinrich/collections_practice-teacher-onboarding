@@ -34,4 +34,6 @@ def sum_array(array)
   array.reduce(:+)
 end
 
-def
+def add_s(array)
+  
+end
