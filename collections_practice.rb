@@ -29,3 +29,7 @@ end
 def find_a(array)
   array.keep_if { |word| word.start_with? "a" }
 end
+
+def sum_array(array)
+  
+end
