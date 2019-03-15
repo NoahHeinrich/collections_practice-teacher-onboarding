@@ -38,7 +38,7 @@ def add_s(array)
   new_array = []
   array.each_with_index do |word, index|
     word += "s" if index != 1
-    puts word
+    new_array << word
   end
   array
 end
